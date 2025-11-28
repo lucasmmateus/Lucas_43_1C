@@ -5,6 +5,9 @@ background: rgb(0, 0, 0);
 header{
     border-bottom:solid 2px rgb(rgb(47, 68, 255));
     padding: 20px;
+    font-size: 32px;
+    color: rgb(144, 3, 238);
+    background-color: aliceblue;
 }
 
 p{
